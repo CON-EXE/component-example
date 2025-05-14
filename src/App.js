@@ -14,6 +14,8 @@ function App() {
     { index: 3, name: 'Blogs', url: 'https://www.components.com/blogs'}
   ];
 
+  // This might break the whole thing
+
   const movies = [
     {
       id: 1001,
